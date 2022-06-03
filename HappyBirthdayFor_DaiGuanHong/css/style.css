@@ -818,10 +818,10 @@
 
 .ly-imgbox15{
 	position: absolute;
-	left: 5%;
-	top: -10%;
-	width: 50%;
-	height: 60%;
+	left: 7%;
+	top: -18%;
+	width: 110%;
+	height: 70%;
 	opacity:0;
 	overflow: hidden;
 	transition:all 0.5s;
